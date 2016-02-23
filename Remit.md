@@ -24,15 +24,22 @@ Links in each corner with
 
 ### Card Types
 
-Single Card
-  Website Link
-    expandable false
-  Content Site
-    expandable true
-    Expandable to Summary Content and Header Image. Pulls in RSS
-  Native Card which we will develop which has API such as Facebook or Gmail
-    Expandable true
+* Single Card
+  * Website Link
+    * `expandable is false`
 
+* Content Card
+  * Expandable to Summary Content and Header Image. Pulls in RSS
+    * `expandable is true`
+
+* Native Card
+  * Cards designed by Us such as Facebook and Gmail with APIs
+    * `expandable is true`
+
+* Deck Card
+  * Card that holds the theme of the deck and appears as a deck of cards image. This holds the information of what the others cards are and it's own tag that is used under a category
+  * Expands showing the cards in the deck
+    * `expandable is true`
 
 #### Expanded
 `if true`
@@ -43,7 +50,5 @@ More information such as
 * API from a Service
 
 
-
-A new element called deck-card
 
 You can create decks by putting one on another
