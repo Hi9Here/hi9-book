@@ -5,7 +5,7 @@
 
 [Core Values](pages/core-values.md)
 
-[Mission Statement](pages/mission-statment.md.md)
+[Mission Statement](pages/mission-statment.md)
 
 [Remit](pages/remit.md)
 
