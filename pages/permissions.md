@@ -29,7 +29,5 @@ eg deko.fyi/DCH/Foyer
 ### Cards
 eg deko.fyi/DCH/Foyer/skills_card
 
-
-Remember UID is different from User.
-
-An Identity can have more than one UID.
+## UIDs
+User is the unique identifier. It is not identity. Meaning we can have the same three states for all data types.
