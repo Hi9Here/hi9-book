@@ -2,8 +2,4 @@
 
 # Mission Statement for Hi9
 
-Discover and Organise Website Links
-
-Discover, Organise and Share Website Links
-
-Discover, Organise and Share Everything
+Enable Everyone to Access Solutions through the Use of Technology, It's That Simple.

@@ -7,8 +7,6 @@ Please commit and put in pull requests for anything that you would like to add. 
 
 [Mission Statement](pages/mission-statment.md)
 
-[Remit](pages/remit.md)
-
 [Versions and Rollout](pages/versions-and-rollout.md)
 
 [Permissions](pages/permissions.md)
