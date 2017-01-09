@@ -1,6 +1,7 @@
 [Home](../hi9-home-page.md)
-Core Values
-===========
+
+# Core Values
+
 
 ### Open Development
 To Share as much as possible all non core elements

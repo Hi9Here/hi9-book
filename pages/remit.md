@@ -1,14 +1,14 @@
 [Home](../hi9-home-page.md)
-Remit for Hi9
-=============
+
+# Remit for Hi9
 
 Centre of UX and UI is the **Card**
 
-### Main Section
+## Main Section
 
-### Card States
+## Card States
 
-#### Default
+### Default
 A small card in portrait mode with
 
 * Title
@@ -24,7 +24,7 @@ Links in each corner with
   * Delete
   * Edit
 
-#### Expanded
+### Expanded
   `expandable true`
 
   More information such as
@@ -32,7 +32,7 @@ Links in each corner with
   * Survey Questions
   * API from a Service
 
-### Card Types
+## Card Types
 
 * Single Card
   * Website Link

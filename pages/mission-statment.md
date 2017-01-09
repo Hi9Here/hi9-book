@@ -1,6 +1,6 @@
 [Home](../hi9-home-page.md)
-Mission Statement for Hi9
-=========================
+
+# Mission Statement for Hi9
 
 Discover and Organise Website Links
 
