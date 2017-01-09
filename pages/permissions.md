@@ -20,7 +20,7 @@ All Data Types or Firebase Paths. Can have any of the three types of States Abov
 
 ## Data Types or Firebase Pathss
 
-### Identity
+### Profiles
 eg deko.fyi/DCH
 
 ### Decks
